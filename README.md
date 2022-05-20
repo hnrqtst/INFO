@@ -19,7 +19,7 @@
 ### Agora falando de scripts e dev
 - Fatie o código em partes menores. MONOLITOS NÃO SÃO LEGAIS.
 - Teste tudo. Seja criativo nos testes, use print(), printscreens, logs, variáveis, etc.
-- Teste em partes e separadamente. Teste linhas, depois trechos, depois funções inteiras, depois algumas funções se conversando, depois 1 processo completo, depois alguns processos em sequência, depois uma lista inteira de processos.
+- Teste em partes e separadamente.
 - Cuidado na hora de testar, tenha certeza que testes são reversíveis, qualquer dúvida PERGUNTE.
 - Mais uma vez.. qualquer dúvida PERGUNTE!!! principalmente dúvidas sobre o processo e negócio, pergunte para o usuário la na ponta.. bot feito com dúvida é bot que vai dá m****.
 - Log é obrigatório (nos scripts de RPA)
