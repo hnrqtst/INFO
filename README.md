@@ -3,7 +3,7 @@
 # Bem vindo ao Github da TI/Projetos da TRP!!
 
 ## Informações Gerais
-- Git gerenciado pelo Testai
+- Git gerenciado pelo Testai (ramal 7935)
 - Cada repositório é um projeto
 - Todos projetos são PRIVADOS
 - Somente pessoas permitidas terão acesso a cada projeto
